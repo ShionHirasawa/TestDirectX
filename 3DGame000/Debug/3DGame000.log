@@ -1,0 +1,74 @@
+﻿  wall.cpp
+  meshfield.cpp
+  main.cpp
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(603): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(604): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(605): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(607): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(608): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(609): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(616): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(617): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(618): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(620): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(621): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(622): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(654): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(655): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(656): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(667): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(668): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(669): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(677): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(678): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(679): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(687): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(688): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(689): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(713): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(714): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(715): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(717): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(718): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(719): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(727): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(728): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(729): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(731): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(732): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(733): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(741): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(742): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(743): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(745): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(746): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(747): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(755): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(756): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(757): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(781): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(782): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(783): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(785): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(786): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(787): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(798): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(799): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(800): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(802): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(803): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(804): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(815): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(816): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(817): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(819): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(820): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\main.cpp(821): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  field.cpp
+  camera.cpp
+c:\users\student\documents\visual studio 2015\projects\3dgame000\camera.cpp(288): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\camera.cpp(289): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\3dgame000\camera.cpp(290): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  3DGame000.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3DGame000\Debug\3DGame000.exe
+  3DGame000.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\3DGame000\Debug\3DGame000.pdb (Full PDB)
